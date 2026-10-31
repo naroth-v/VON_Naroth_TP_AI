@@ -1,6 +1,6 @@
 # Artificial Intelligence 
 
-**Repository:** VON_Naroth_TP_AI
+**Repository:** VON_Naroth_TP_AI\
 **Academic Year:** 2026-2027 — Institute of Technology of Cambodia (ITC) 
 **Department:** Applied Mathematics and Statistics
 **Course:** Artificial Intelligence  
