@@ -25,7 +25,7 @@ This repository serves as the central hub for all practical work (TP / *Travaux 
 
 | Lab / Assignment | Topic | Key Techniques & Concepts | Status | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **TP1** | PyTorch Fundamentals | Tensor Operations, GPU Acceleration, Vectorization, Random Seeds | ✅ Completed | [View Notebook](https://github.com/naroth-v/VON_Naroth_TP_AI/tree/main/TP1) |
+| **TP1** | PyTorch Fundamentals | Tensor Operations, GPU Acceleration, Vectorization, Random Seeds | ✅ Completed | [View Notebook on Google Colab](https://colab.research.google.com/drive/1tKk1NfMRQMLZ61ha2yRCUVI7Pd1slD0g) |
 
 ---
 
