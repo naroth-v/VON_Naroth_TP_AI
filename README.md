@@ -5,7 +5,7 @@
 **Department:** Applied Mathematics and Statistics\
 **Course:** Artificial Intelligence\
 **Lecturer:**  VANN Visal\
-**Student Name:** VON Naroth\  
+**Student Name:** VON Naroth  
 **Student ID:** e20230371 
 
 ---
