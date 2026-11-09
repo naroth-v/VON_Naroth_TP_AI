@@ -27,5 +27,7 @@ This repository serves as the central hub for all practical work (TP / *Travaux 
 | :--- | :--- | :--- | :--- | :--- |
 | **TP1** | PyTorch Fundamentals | Tensor Operations, GPU Acceleration, Vectorization, Random Seeds | ✅ Completed | [Open In Colab](https://colab.research.google.com/drive/1tKk1NfMRQMLZ61ha2yRCUVI7Pd1slD0g) |
 
+| **TP2** | Deep Neural Networks from Scratch | Forward & Backward Propagation, Activation Functions (ReLU, Leaky ReLU, Sigmoid), Weight Initialization, Autograd Verification, Error Analysis | 🚧 In Progress | [Class Activity](https://google.com) <br> [Assignment](https://google.com) |
+
 ---
 
